@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Om Rakibe</h1>
+<h1 align="center"> I'm Om Rakibe</h1>
 <h3 align="center">A passionate MERN Stack developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
