@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omrakibe&label=Profile%20views&color=0e75b6&style=flat" alt="omrakibe" /> </p>
 
-<p align="left"> <a href="https://twitter.com/om_rakibe" target="blank"><img src="https://img.shields.io/twitter/follow/om_rakibe?logo=twitter&style=for-the-badge" alt="om_rakibe" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/omrakibe" target="blank"><img src="https://img.shields.io/twitter/follow/om_rakibe?logo=twitter&style=for-the-badge" alt="om_rakibe" /></a> </p>
 
 - 📫 How to reach me **rakibeom30@gmail.com**
 
